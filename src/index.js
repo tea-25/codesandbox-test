@@ -204,7 +204,7 @@ console.clear();
 // console.log(fee);
 
 // &&　は左側がtrueなら右側を返す
-const num2 = 100;
-const fee2 = num2 && `何赤設定されました`;
+// const num2 = 100;
+// const fee2 = num2 && `何赤設定されました`;
 
-console.log(fee2);
+// console.log(fee2);
